@@ -1,2 +1,3 @@
+message: Notification Service Running
 server:
   port: 8082
